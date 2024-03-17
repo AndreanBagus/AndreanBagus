@@ -12,6 +12,9 @@
 Hello earthlings my name is Andrean Bagus I am from Central Java, precisely in Klaten district..<br> 
 I study in the informatics department.<br>
 I'M College Student at [IST AKPRIND Yogyakarta](https://www.akprind.ac.id/).<br>
+<div id="header" align="center">
+  <img src="http://1000logos.net/wp-content/uploads/2017/02/New-Instagram-logo.jpg" width="70"/>
+</div>(https://www.instagram.com/andreanbp__/)
 
 <div><br><br>
  
