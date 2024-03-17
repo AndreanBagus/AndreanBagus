@@ -18,8 +18,7 @@ I'M College Student at [IST AKPRIND Yogyakarta](https://www.akprind.ac.id/).<br>
 <h2 align="center">  👨About Me : </h2>
 <pre>
     📖 informatics Engineering
-    🎮 Music • Games 
-    🐾 Cat 🐱 • chicken noodle 🍜
+    
 </pre>
 <br><br>
 </div>
