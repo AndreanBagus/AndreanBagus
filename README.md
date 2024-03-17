@@ -4,13 +4,13 @@
 <h1 align="center">**Hello Earthlings**</h1>
 
 <div id="header" align="center">
-  <img src="https://wallpapercave.com/wp/wp2590740.png" width="700"/>
+  <img src="https://wallpapercave.com/wp/wp4587060.jpg" width="700"/>
 </div>
 
 <div align="center">
   
-Hello minnasan my name is tegar I come from java, indonesia.<br> 
-Currently I am studying at the informatics department.<br>
+Hello earthlings my name is Andrean Bagus I am from Central Java, precisely in Klaten district..<br> 
+I study in the informatics department.<br>
 I'M College Student at [IST AKPRIND Yogyakarta](https://www.akprind.ac.id/).<br>
 
 <div><br><br>
@@ -18,20 +18,19 @@ I'M College Student at [IST AKPRIND Yogyakarta](https://www.akprind.ac.id/).<br>
 <h2 align="center">  👨About Me : </h2>
 <pre>
     📖 informatics Engineering
-    🎮 Music • Games • Anime • Book
+    🎮 Music • Games 
     🐾 Cat 🐱 • chicken noodle 🍜
- <img src="https://media.tenor.com/images/0c95b6e7c5d7fa56ea7b84f8b981d147/tenor.gif" width="150"/>
 </pre>
 <br><br>
 </div>
 
 <div><br><br>
-<h2 align="center"> 📖My Github Static </h2>
-<pre>
-<img align="right" width="45%" src="https://i.redd.it/rrq1sabkxsr71.gif"/>
-  <a href="https://github.com/TegarSa"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=TegarSa&theme=radical&title_color=ff3068?"></a>
-  <a href="https://github.com/TegarSa"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=TegarSa&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
-</pre>
+<p align="center">
+<a href="https://github.com/AndreanBagus">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AndreanBagus&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AndreanBagus&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 <br><br>
 </div>
 
