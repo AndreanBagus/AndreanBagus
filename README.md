@@ -15,7 +15,7 @@ I'M College Student at [IST AKPRIND Yogyakarta](https://www.akprind.ac.id/).<br>
 <div id="header" align="center">
  <a href="https://www.instagram.com/https://www.instagram.com/andreanbp__?igsh=MTZva3B4b3A4amJxOA==/" target="_blank">
     <div class="instagram-logo">
-         <img src="http://1000logos.net/wp-content/uploads/2017/02/New-Instagram-logo.jpg" width="70"/>
+         
 
 
 <div><br><br>
