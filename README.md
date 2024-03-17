@@ -1,7 +1,7 @@
 <body>
  <center>
 
-<h1 align="center">**Hello Earthlings**</h1>
+<h1 align="center">Hello Earthlings</h1>
 
 <div id="header" align="center">
   <img src="https://wallpapercave.com/wp/wp4587060.jpg" width="700"/>
